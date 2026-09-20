@@ -1,1 +1,0 @@
-import{n as e,t}from"./circuit-board-BXSHlulY.js";import{t as n}from"./box-xzsBlead.js";import{t as r}from"./newspaper-CrvV_jiQ.js";var i={Bot:e,CircuitBoard:t,Box:n,Newspaper:r},a=e=>i[e]||r;export{a as t};
