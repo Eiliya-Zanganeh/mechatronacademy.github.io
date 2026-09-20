@@ -11,6 +11,12 @@
   "theme_color": "#2F80ED",
   "icons": [
     {
+      "src": "/images/logo.webp",
+      "sizes": "749x400",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
       "src": "/favicon.ico",
       "sizes": "48x48",
       "type": "image/x-icon",
