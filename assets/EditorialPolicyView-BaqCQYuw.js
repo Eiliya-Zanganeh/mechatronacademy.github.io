@@ -1,0 +1,1 @@
+import{L as e,d as t,w as n}from"./swiper-lKIb5NfX.js";import{r,t as i}from"./policies-Dugfc9Lc.js";var a={__name:`EditorialPolicyView`,setup(a){return(a,o)=>(n(),t(r,{badge:e(i).badge,title:e(i).title,"updated-at":e(i).updatedAt,intro:e(i).intro,sections:e(i).sections},null,8,[`badge`,`title`,`updated-at`,`intro`,`sections`]))}};export{a as default};
