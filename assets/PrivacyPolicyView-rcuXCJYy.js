@@ -1,0 +1,1 @@
+import{R as e,d as t,w as n}from"./swiper-r12ijFTj.js";import{n as r,r as i}from"./policies-BvWdRL3y.js";var a={__name:`PrivacyPolicyView`,setup(a){return(a,o)=>(n(),t(i,{badge:e(r).badge,title:e(r).title,"updated-at":e(r).updatedAt,intro:e(r).intro,sections:e(r).sections},null,8,[`badge`,`title`,`updated-at`,`intro`,`sections`]))}};export{a as default};

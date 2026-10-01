@@ -1,0 +1,1 @@
+import{n as e,t}from"./circuit-board-CGyw_7OO.js";import{t as n}from"./box-DEfuMVyt.js";import{n as r}from"./blog-B58w6-xy.js";var i={Bot:e,CircuitBoard:t,Box:n,Newspaper:r},a=e=>i[e]||r;export{a as t};
